@@ -8,5 +8,5 @@ New-Alias vi nvim
 New-Alias vim nvim
 
 # Instantiate oh-my-posh 
-oh-my-posh init pwsh --config "$env:LOCALAPPDATA\Programs\oh-my-posh\themes\unicorn.omp.json" | Invoke-Expression
+oh-my-posh init pwsh --config "$env:LOCALAPPDATA\Programs\oh-my-posh\themes\amro.omp.json" | Invoke-Expression
 
